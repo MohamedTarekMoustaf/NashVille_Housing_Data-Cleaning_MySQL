@@ -1,6 +1,3 @@
-# NashVille_Housing_Data-Cleaning_MySQL
-Here’s a professional README.md you can upload to GitHub for your SQL project:
-
 # Nashville Housing Data Cleaning (SQL Project)
 
 ## 📌 Project Overview
